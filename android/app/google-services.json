@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "979205805037",
+    "project_id": "osmanbaba",
+    "storage_bucket": "osmanbaba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979205805037:android:e90eaf3a9c26bc42d74de4",
+        "android_client_info": {
+          "package_name": "net.osmanbaba.osmanbaba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979205805037-t0nurir4k5klpad6um2j1eb7a7hb2j19.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.osmanbaba.osmanbaba",
+            "certificate_hash": "b2ba9ba27f1dc7131cee634bfa4ac4f1d7c9f502"
+          }
+        },
+        {
+          "client_id": "979205805037-nijkkdnn69rfe7r9kd3qut6lna1p18q7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7Ab-FZrPJqIqBhSYsxgxG0bwPWjK8E5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979205805037-1togstgghik2ct9jnahpqis6ouobenfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
